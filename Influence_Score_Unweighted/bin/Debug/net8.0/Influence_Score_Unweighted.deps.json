@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Influence_Score_Unweighted/1.0.0": {
+        "runtime": {
+          "Influence_Score_Unweighted.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Influence_Score_Unweighted/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

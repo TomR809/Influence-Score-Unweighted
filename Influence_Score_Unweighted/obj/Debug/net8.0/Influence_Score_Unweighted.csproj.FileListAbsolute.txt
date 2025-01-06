@@ -1,0 +1,14 @@
+C:\Users\richa\source\repos\Influence_Score_Unweighted\Influence_Score_Unweighted\obj\Debug\net8.0\Influence_Score_Unweighted.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\richa\source\repos\Influence_Score_Unweighted\Influence_Score_Unweighted\obj\Debug\net8.0\Influence_Score_Unweighted.AssemblyInfoInputs.cache
+C:\Users\richa\source\repos\Influence_Score_Unweighted\Influence_Score_Unweighted\obj\Debug\net8.0\Influence_Score_Unweighted.AssemblyInfo.cs
+C:\Users\richa\source\repos\Influence_Score_Unweighted\Influence_Score_Unweighted\obj\Debug\net8.0\Influence_Score_Unweighted.csproj.CoreCompileInputs.cache
+C:\Users\richa\source\repos\Influence_Score_Unweighted\Influence_Score_Unweighted\bin\Debug\net8.0\Influence_Score_Unweighted.exe
+C:\Users\richa\source\repos\Influence_Score_Unweighted\Influence_Score_Unweighted\bin\Debug\net8.0\Influence_Score_Unweighted.deps.json
+C:\Users\richa\source\repos\Influence_Score_Unweighted\Influence_Score_Unweighted\bin\Debug\net8.0\Influence_Score_Unweighted.runtimeconfig.json
+C:\Users\richa\source\repos\Influence_Score_Unweighted\Influence_Score_Unweighted\bin\Debug\net8.0\Influence_Score_Unweighted.dll
+C:\Users\richa\source\repos\Influence_Score_Unweighted\Influence_Score_Unweighted\bin\Debug\net8.0\Influence_Score_Unweighted.pdb
+C:\Users\richa\source\repos\Influence_Score_Unweighted\Influence_Score_Unweighted\obj\Debug\net8.0\Influence_Score_Unweighted.dll
+C:\Users\richa\source\repos\Influence_Score_Unweighted\Influence_Score_Unweighted\obj\Debug\net8.0\refint\Influence_Score_Unweighted.dll
+C:\Users\richa\source\repos\Influence_Score_Unweighted\Influence_Score_Unweighted\obj\Debug\net8.0\Influence_Score_Unweighted.pdb
+C:\Users\richa\source\repos\Influence_Score_Unweighted\Influence_Score_Unweighted\obj\Debug\net8.0\Influence_Score_Unweighted.genruntimeconfig.cache
+C:\Users\richa\source\repos\Influence_Score_Unweighted\Influence_Score_Unweighted\obj\Debug\net8.0\ref\Influence_Score_Unweighted.dll
